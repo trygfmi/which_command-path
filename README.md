@@ -82,12 +82,12 @@ which ls
 <div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>ls -l
 which ls
-/bin/ls -l</code></pre>
+/usr/bin/ls -l</code></pre>
 
 
 
 <details class="wp-block-details"><summary>出力結果</summary>
-<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>/bin/ls</code></pre>
+<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>/usr/bin/ls</code></pre>
 </details>
 </div>
 
@@ -100,12 +100,12 @@ which ls
 <div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>ls -l
 which ls
-/bin/ls -l</code></pre>
+/usr/bin/ls -l</code></pre>
 
 
 
 <details class="wp-block-details"><summary>出力結果</summary>
-<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>/bin/ls</code></pre>
+<pre class="wp-block-code has-background" style="background-color:#ffeeee"><code>/usr/bin/ls</code></pre>
 </details>
 </div>
 </div>
@@ -327,12 +327,12 @@ which ls
 <div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>ls -l
 which ls
-/bin/ls -l</code></pre>
+/usr/bin/ls -l</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>/bin/ls</code></pre>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>/usr/bin/ls</code></pre>
 </details>
 </div>
 
@@ -345,12 +345,12 @@ which ls
 <div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>ls -l
 which ls
-/bin/ls -l</code></pre>
+/usr/bin/ls -l</code></pre>
 
 
 
 <details class="wp-block-details"><summary>詳細</summary>
-<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>/bin/ls</code></pre>
+<pre class="wp-block-code has-24292-eff-color has-text-color has-background has-1-125-rem-font-size" style="background-color:#ffeeee"><code>/usr/bin/ls</code></pre>
 </details>
 </div>
 </div>
